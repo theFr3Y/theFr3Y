@@ -31,6 +31,6 @@ i start programming in 3 years ago with "Batch Script" language and now im 18 ye
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/theFr3Y"><img src="https://github-readme-stats.vercel.app/api?username=theFr3Y&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="theFr3Y's GitHub stats" /></a>
+<a href="http://www.github.com/theFr3Y"><img src="https://github-readme-stats.vercel.app/api username=theFr3Y&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&show_icons=true" alt="theFr3Y's GitHub stats" /></a>
 
 <a href="http://www.github.com/theFr3Y"><img src="https://activity-graph.herokuapp.com/graph?username=theFr3Y&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
