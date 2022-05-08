@@ -9,7 +9,7 @@ i start programming in 3 years ago with "Batch Script" language and now im 18 ye
 * 🌍  I'm based in Iran / Semnan
 * 🖥️  See my portfolio at [my personality web](http://radmehrFr3Y.pythonanywhere.com)
 * ✉️  You can contact me at [Fr3Y@yahoo.com](mailto:Fr3Y@yahoo.com)
-* 🧠  I'm learning ruby - python - mongo
+* 🧠  I'm learning ruby - python - php - mongo
 
 ### Skills
 
