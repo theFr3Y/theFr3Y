@@ -12,6 +12,8 @@ i start programming in 3 years ago with "Batch Script" language and now im 18 ye
 * 🧠  I'm learning ruby - python - mongo
 
 ### My Favorite Technologies
+<a href="https://www.github.com/theFr3Y" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/theFr3Y?logo=ruby&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img rc="https://img.shields.io/github/followers/theFr3Y?logo=ubuntu&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 <img rc="https://img.shields.io/github/followers/theFr3Y?logo=django&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
